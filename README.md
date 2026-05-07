@@ -1,9 +1,17 @@
 # DSA With Java
 
-Java DSA problems and solutions by Jatin Kahar.
+Java Data Structures and Algorithms solutions by Jatin Kahar.
 
-## Topics
+## Topics Covered
 - Arrays
 - Linked List
 - Trees
 - Dynamic Programming
+- Recursion
+- Searching & Sorting
+
+## Purpose
+This repository contains Java DSA problems, coding practice, and interview preparation solutions.
+
+## Author
+Jatin Kahar
