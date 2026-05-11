@@ -3,7 +3,7 @@
 Java Data Structures and Algorithms solutions by Jatin Kahar.
 
 ## About Repository
-This repository contains Java DSA problems, coding practice solutions, and interview preparation programs.
+This repository contains Java DSA problems, coding practice solutions, and interview preparation programs focused on improving problem-solving and programming skills.
 
 ## Topics Covered
 - Arrays
@@ -23,11 +23,11 @@ This repository contains Java DSA problems, coding practice solutions, and inter
 
 ## Tech Stack
 - Java
-- DSA
+- Data Structures & Algorithms
 - Problem Solving
 
 ## Author
 Jatin Kahar
 
-GitHub Profile:
+## GitHub Profile
 https://github.com/jatinkahar
